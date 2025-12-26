@@ -78,23 +78,23 @@ print("Predicted probabilities:", y_pred)
 Outputs probabilities in the range [0, 1]
 Can be converted to class labels using a threshold (e.g., 0.5)
 
-⚠️ Notes
+# ⚠️ Notes
 Educational implementation
 No regularization or numerical stability tricks
 Not intended for production deployment
 
-🎯 What You Learn From This
+#🎯 What You Learn From This
 Logistic Regression internals
 Gradient Descent optimization
 Binary Cross-Entropy loss
 Vectorized NumPy operations
 Building ML models without black-box libraries
 
-👤 Author
+#👤 Author
 Priyam Khare
 Machine Learning & AI Enthusiast
 
-⭐ Why This Project Matters
+#⭐ Why This Project Matters
 Implementing Logistic Regression from scratch demonstrates strong ML fundamentals, which are highly valued in:
 ML / AI internships
 Technical interviews
