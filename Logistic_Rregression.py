@@ -14,7 +14,8 @@ class Logisic_Regression:
       w = np.random.randn(self.x.shape[1],self.output)
       b = np.zeros((1,self.output))
       return w,b
-
+  
+  # Backpropogation and Gradient Descent
   def train(self,epoch = 1200,lr=0.01,show_loss=False):
     self.w,self.b = self.parameters_init()
     for i in range(epoch):
