@@ -92,7 +92,7 @@ Building ML models without black-box libraries
 
 # 👤 Author
 Priyam Khare
-Machine Learning & AI Enthusiast
+| Machine Learning & AI Enthusiast
 
 # ⭐ Why This Project Matters
 Implementing Logistic Regression from scratch demonstrates strong ML fundamentals, which are highly valued in:
